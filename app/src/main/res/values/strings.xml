@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">12_1_2023</string>
+    <string name="tv_bottom">MADE IN BY AZAT</string>
+    <string name="tv_deposit">Депозит</string>
+    <string name="tv_percent">23%</string>
+    <string name="tv_commission">Комиссия</string>
+    <string name="tv_summa">Сумма</string>
+    <string name="tv_hint_bottom">MADE IN KZ BY AZAT</string>
+    <string name="edit_tv">Введите число</string>
+    <string name="tv_level1">Пенсионный</string>
+    <string name="tv_level2">Оптимальный</string>
+    <string name="tv_level3">Комфорт</string>
+    <string name="tv_level4">Бизнесмен</string>
+    <string name="tv_level5">Максимум</string>
+    <string name="tv_comission_value">230000.00</string>
+    <string name="tv_summa_value">1230000.00</string>
+    <string name="edTextValue">0</string>
+</resources>
